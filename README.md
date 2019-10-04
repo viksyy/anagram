@@ -45,6 +45,14 @@ After `npm install` finishes, start the main script.
 
     $ node index.js
 
-Attention: Be sure that the wordlist file should be in root project directory and the name of file must be `wordlist.txt` and every word in that file must be in the new line.
+>Attention: Be sure that the wordlist file should be in root project directory and the name of file must be `wordlist.txt` and every word in that file must be in the new line.
+
+> _If you want to run from command line without testing please uncomment the following pice of call to directly call from the validate input file._ `// readFile();`
+
+    
+
 
 ## Tests
+To run all unit tests type the following command in your OS's commandline and be sure that you are in root directory of the project
+
+    $ npm run test

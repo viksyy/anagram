@@ -1,0 +1,30 @@
+{
+  "name": "anagram",
+  "version": "1.0.0",
+  "description": "Program which finds all anagrams of a given word in a dictionary",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viktorspasevski/anagram.git"
+  },
+  "keywords": [
+    "anagram",
+    "find",
+    "words",
+    "txt",
+    "bigfile",
+    "file"
+  ],
+  "author": "viktorspasevski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/viktorspasevski/anagram/issues"
+  },
+  "homepage": "https://github.com/viktorspasevski/anagram#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
